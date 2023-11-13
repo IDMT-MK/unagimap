@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body {
+  margin: 0;
+}
+
+#map {
+  height: 100vh;
+}
+
+img {
+  width: 100%;
+}
+
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+  background: #000;
+  color: #FFF;
+}
+
+.map {
+  text-align: center;
+}
+
+.map iframe {
+  width: 100%;
+}
+
+.footer {
+  background-color: #000;
+  padding: 0.5rem;
+}
+
+.footer p {
+  color: #FFF;
+  text-align: center;
+}
